@@ -1,6 +1,6 @@
 body{
 	background-color: #f3f3f3;
-	margin: 100px
+	margin: 125px
 }
 
 .mainDetails{border-radius: 0%;
@@ -114,8 +114,25 @@ img[alt]{
 ul li{
 	color: black;
 	list-style-type: none;
-	
-	
+		
+}
+.sectionContentt1 ul{
+	margin-left: 300px;
+    margin-top: 30px;
+	font-size: 24px;
+    font-family: sans-serif;
+}
+.sectionContentt2 ul{
+	margin-left: 544px;
+    margin-top: -110px;
+	font-size: 24px;
+    font-family: sans-serif;
+}
+.sectionContentt3 ul{
+	margin-left: 800px;
+    margin-top: -102px;
+    font-size: 23px;
+    font-family: sans-serif;
 }
 
 .sectionContent p{
@@ -127,4 +144,8 @@ ul li{
 	line-height: 40px;
 	font-size: 30px;
 	font-family: sans-serif;
+}
+.subDetails{
+	margin-top: -4%;
+    color: gray;
 }
